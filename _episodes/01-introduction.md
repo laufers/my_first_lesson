@@ -7,7 +7,7 @@ questions:
 objectives:
 - "First objective."
 keypoints:
-- "First key point."
+- "Github is a great way to foster and encourage folks to contribute to your work"s
 ---
 
 {% include links.md %}
